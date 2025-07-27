@@ -6,7 +6,7 @@ Whether you're a cloud beginner or looking to power up your AWS CLI workflow for
 ## Repo Stucture
 
 - 1: Configuration, profiles, and CLI basics
-- 2: Mastering AWS CLI syntax, filters, output, and help tools
+- 2: Command structure
 - 3: IAM: Users, roles, policies, and credentials
 - 4: S3 storage commands and real-world data operations
 - 5: EC2 compute instance management and automation
